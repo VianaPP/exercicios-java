@@ -1,6 +1,8 @@
 com\br\bandtec\nivelamento2\NumerosPares.class
 Lista03\Media.class
+Pokemon\TreinadorPokemon.class
 RecursosHumanos\RecursosHumanos.class
+Pokemon\TestePokemon.class
 com\br\bandtec\listas\Lista02\Acumulador.class
 com\br\bandtec\nivelamento2\ContadorVariado.class
 com\br\bandtec\nivelamento2\Pizza.class
@@ -17,4 +19,5 @@ Lista03\Classificalidade.class
 com\br\bandtec\nivelamento2\Potencia.class
 Lista04\TesteEmpregado.class
 RecursosHumanos\TesteColaborador.class
+Pokemon\Pokemon.class
 com\br\bandtec\listas\Lista02\Login.class
